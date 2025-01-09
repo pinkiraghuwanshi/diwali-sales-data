@@ -14,18 +14,18 @@ This Diwali sales analysis provides insights into consumer purchasing behavior. 
 - zone by Amount
 - State by Amount
 - Order by Amount
--Zone  by Amount
--Department by Sales
--State by Orders
--Product category by Orders
--Gender by Amount
+- Zone  by Amount
+- Department by Sales
+- State by Orders
+- Product category by Orders
+- Gender by Amount
 
 3.Insights
-Top Zones by Orders - Central - 2k
-State by orders  - Delhi
-TOP Product category by Orders - Sports Products - 672
-Department by Top Sales- IT - 2.3k
-Gender by Amount - Female - 70%
+- Top Zones by Orders - Central - 2k
+- State by orders  - Delhi
+- TOP Product category by Orders - Sports Products - 672
+- Department by Top Sales- IT - 2.3k
+- Gender by Amount - Female - 70%
 
 
 
