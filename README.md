@@ -1,14 +1,14 @@
 # diwali-sales-data
 This Diwali sales analysis provides insights into consumer purchasing behavior. The top-performing cities were Delhi, Mumbai, and Bengaluru. Product-wise, electronics and home decor items saw the highest demand. In terms of payment methods, online transactions via credit/debit cards dominated. The analysis highlights key trends and preferences, enabling informed business decisions.
 1.Tools and skills use - 
--Python
--pandas
--Matplotlib
--sos
--Power BI
--Data Cleaning
--Create visual report
--Dashboard
+- Python
+- pandas
+- Matplotlib
+- sos
+- Power BI
+- Data Cleaning
+- Create visual report
+- Dashboard
 
 2.KPI's
 - zone by Amount
